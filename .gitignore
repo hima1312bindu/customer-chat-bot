@@ -1,0 +1,20 @@
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# AI Models
+ai-service/intent_model/
+*.pt
+*.bin
+*.safetensors
+
+# Environment
+.env
+
+# Build
+dist/
+build/
