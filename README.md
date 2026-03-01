@@ -33,13 +33,7 @@ PyTorch
 
 Regex for order ID extraction
 
-Project Structure
-.
-├── main.py              # FastAPI chatbot service
-├── train_intent.py      # Intent model training script
-├── intent_model/        # Saved trained model
-├── data/                # Dataset files
-└── README.md
+
 How It Works
 
 User sends a message to the chatbot
